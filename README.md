@@ -1,4 +1,4 @@
-# python_asteroids
+# Python Asteroids
 [Implementation of the classic arcade game Asteroids in Python](http://ryanOM.github.io/python_asteroids)
 
 This project was made for a Coursera course at the University of Rice: 
