@@ -16,3 +16,4 @@ You can also find a live version of it here: [http://ryanOM.github.io/python_ast
 ### Credits
 
 Art assets created by Kim Lathrop
+Credit to https://github.com/brentfleming for [embedskulptor.js](https://github.com/brentfleming/EmbedSkulptor)
