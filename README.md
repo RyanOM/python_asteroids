@@ -1,6 +1,6 @@
 # Python Asteroids
 
-
+![Screenshot](https://raw.githubusercontent.com/RyanOM/python_asteroids/gh-pages/imgs/screenshot.png)
 
 ### About
 
