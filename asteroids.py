@@ -96,7 +96,7 @@ missile_sound = simplegui.load_sound(SOUND_RESOURCE_URL.format("missile.mp3"))
 missile_sound.set_volume(.5)
 ship_thrust_sound = simplegui.load_sound(SOUND_RESOURCE_URL.format("thrust.mp3"))
 explosion_sound = simplegui.load_sound(SOUND_RESOURCE_URL.format("explosion.mp3"))
-scream_sound = simplegui.load_sound("https://dl.dropbox.com/s/1oqh5rsf6n6swio/void_scream.mp3")
+scream_sound = simplegui.load_sound("https://github.com/RyanOM/python_asteroids/blob/gh-pages/sounds/void_scream.mp3?raw=true")
 
 
 # helper functions to handle transformations
