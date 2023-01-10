@@ -57,8 +57,8 @@ class ImageInfo:
 # art assets created by Kim Lathrop, may be freely re-used in non-commercial projects, please credit Kim
 
 # Base resource urls
-IMG_RESOURCE_URL = "http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/{}"
-SOUND_RESOURCE_URL = "http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/{}"
+IMG_RESOURCE_URL = "https://raw.githubusercontent.com/RyanOM/python_asteroids/gh-pages/imgs/{}"
+SOUND_RESOURCE_URL = "https://raw.githubusercontent.com/RyanOM/python_asteroids/gh-pages/sounds/{}"
     
 # debris images - debris1_brown.png, debris2_brown.png, debris3_brown.png, debris4_brown.png
 #                 debris1_blue.png, debris2_blue.png, debris3_blue.png, debris4_blue.png, debris_blend.png
